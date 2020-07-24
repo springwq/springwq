@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-I am Steven, a ruby developer.
+I am Steven, a ruby on rails developer.
 
